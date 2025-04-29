@@ -14,7 +14,7 @@ public class Autodrop {
 
 	public static void main(String[] args) {
 		
-		//Tihs is for testing cicd project automation
+		
 		
 		
 	}
